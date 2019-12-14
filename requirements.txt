@@ -8,3 +8,4 @@ tensorflow
 jinja2
 progressbar2
 opencv-python
+tqdm
